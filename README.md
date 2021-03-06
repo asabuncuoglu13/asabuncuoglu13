@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m currently working on developing new interfaces to increase the affordability and accessibility of K12 programming and science educatio. I am a second year PhD student at [KUIS AI Lab](https://ai.ku.edu.tr/) - [Intelligent Interfaces Group](https://iui.ku.edu.tr/). 
+I’m currently working on developing new interfaces to increase the affordability and accessibility of K12 programming and science education. I am a third year PhD student at [KUIS AI Lab](https://ai.ku.edu.tr/) - [Intelligent Interfaces Group](https://iui.ku.edu.tr/). 
 
-📝 Visit my [Google Scholar page](https://scholar.google.com/citations?user=Ajpd3NwAAAAJ&hl=en) to see all publications.
+📝 Visit my [Google Scholar page](https://scholar.google.com/citations?user=Ajpd3NwAAAAJ&hl=en) to see all the publications.
 
 ## 🌱 Ongoing Projects
 
