@@ -1,4 +1,6 @@
-### Hi there 👋 [CV](https://drive.google.com/file/d/1xMf8ycVRfI5I42JhirqclYcWHidhi6EV/view?usp=sharing)
+### Hi there 👋 
+
+[[CV]](https://drive.google.com/file/d/1xMf8ycVRfI5I42JhirqclYcWHidhi6EV/view?usp=sharing)
 
 I’m currently working on developing new interfaces to increase the affordability and accessibility of K12 programming and science education. I am a PhD candidate at [KUIS AI Lab](https://ai.ku.edu.tr/) - [Intelligent Interfaces Group](https://iui.ku.edu.tr/). 
 
