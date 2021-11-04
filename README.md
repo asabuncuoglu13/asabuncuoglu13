@@ -9,7 +9,7 @@ I’m currently working on developing new interfaces to increase the affordabili
 ## 🌱 Ongoing Projects
 
 - [Kart-ON](https://karton.ku.edu.tr/): Affordable Programming Education with Easy to Find Materials and Mobile Phones
-- [Budgie](https://budgi.es/): Music Programming for Students with Mixed Visual Abilities
+- [Budgie](https://asabuncuoglu13.github.io/budgie-tangible-music-kit/): Music Programming for Students with Mixed Visual Abilities
 - [Marti](https://github.com/karton-project/marti): Data Driven Decision Making with Programming Cards
 
 ## ⚡ Projects with Partners
