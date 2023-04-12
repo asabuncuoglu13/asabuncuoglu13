@@ -18,3 +18,12 @@ I am also working with Twin Science and Robotics to increase the widespread effe
 - [Middle School AI Curriculum](https://asabuncuoglu13.github.io/explorable-ai/): A 36 week curriculum, starts from the fundamentals and includes elements from intelligent interfaces, computer vision, speech recognition and natural language processing. 
 - [Twing Learning Analytics](https://www.twinscience.com/en/twingapp/): Developing state-of-the-art learning analytics systems for Twing mobile application.
 
+## 💻 Contributing to Projects
+
+Most of my projects are open for contribution. I can actively guide you, if you want to contribute one of the following projects:
+
+- Mobile app or deep learning model development updates for [Kart-ON](https://github.com/karton-project/karton-android)
+- Curricular material development for programming education
+- Improving the UX flow of [Marti](https://github.com/karton-project/marti) (Data Progr amming Platform)
+- All improvements for the [Budgie](https://asabuncuoglu13.github.io/budgie-tangible-music-kit/) Music Programming (3D Print, Mobile App, Curricular Material)
+- All improvements for the Classroom Engagement Dataset (New dataset collection, feature engineering, model development)
