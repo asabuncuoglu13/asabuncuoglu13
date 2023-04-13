@@ -27,3 +27,5 @@ Most of my projects are open for contribution. I can actively guide you, if you 
 - Improving the UX flow of [Marti](https://github.com/karton-project/marti) (Data Progr amming Platform)
 - All improvements for the [Budgie](https://asabuncuoglu13.github.io/budgie-tangible-music-kit/) Music Programming (3D Print, Mobile App, Curricular Material)
 - All improvements for the Classroom Engagement Dataset (New dataset collection, feature engineering, model development)
+
+Please read [this guideline](https://docs.google.com/document/d/1R4oP2oar6LvCGRXPG68vCQ4Lly_OvpmnkXHX7NhWx5A/edit?usp=sharing) (also available in [Turkish](https://docs.google.com/document/d/1pnk9Z9ycTHIhiYjkwXoBJ2KKmIqjFAITS8nWfn8Ywwo/edit?usp=sharing)) if you would like to involve in my research projects.
