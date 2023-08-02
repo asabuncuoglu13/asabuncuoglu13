@@ -6,7 +6,9 @@ I’m currently working at the Alan Turing Institute in [Trustworthy Digital Ide
 
 📝 Visit my [Google Scholar page](https://scholar.google.com/citations?user=Ajpd3NwAAAAJ&hl=en) to see all my publications.
 
-## 🌱 Ongoing Projects
+## 🌱 Selected Previous Projects
+
+All these projects are archived but I would like to hear from you if you would like to contribute.
 
 - [Kart-ON](https://karton.ku.edu.tr/): Affordable Programming Education with Easy to Find Materials and Mobile Phones
 - [Budgie](https://asabuncuoglu13.github.io/budgie-tangible-music-kit/): Music Programming for Students with Mixed Visual Abilities
@@ -14,7 +16,7 @@ I’m currently working at the Alan Turing Institute in [Trustworthy Digital Ide
 
 ## 💻 Contributing to Projects
 
-Most of my projects are open for contribution. I can actively guide you, if you want to contribute one of the following projects:
+If you are a student and want to contribute to an open-source project, you can choose to contribute one of the projects:
 
 - Mobile app or deep learning model development updates for [Kart-ON](https://github.com/karton-project/karton-android)
 - Curricular material development for programming education
