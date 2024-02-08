@@ -1,27 +1,22 @@
 ### Hi there 👋 
 
-[[CV]](https://drive.google.com/file/d/167jxkvXNqyHimPS2U9UopQb1fbE-2tdf/view?usp=sharing)
-
-I’m currently working at the Alan Turing Institute in [Trustworthy Digital Identity Interest Group](https://www.turing.ac.uk/research/interest-groups/trustworthy-digital-identity-interest-group). Previously, I conducted my PhD studies at [KUIS AI Lab](https://ai.ku.edu.tr/) - [Intelligent Interfaces Group](https://iui.ku.edu.tr/). 
+I’m currently working at the Alan Turing Institute in [Finance and Economics Programme](https://www.turing.ac.uk/research/research-programmes/finance-and-economics). You can see the most recent publications about our project at the Turing on the [dedicated Zenodo Project Page](https://zenodo.org/communities/tdi). Previously, I conducted my PhD studies at [KUIS AI Lab](https://ai.ku.edu.tr/) - [Intelligent Interfaces Group](https://iui.ku.edu.tr/). 
 
 📝 Visit my [Google Scholar page](https://scholar.google.com/citations?user=Ajpd3NwAAAAJ&hl=en) to see all my publications.
 
-## 🌱 Selected Previous Projects
+## 🌱 Selected Previous PhD Projects
 
-All these projects are archived but I would like to hear from you if you would like to contribute.
+The following projects are archived but I would like to hear from you if you would like to contribute.
 
-- [Kart-ON](https://karton.ku.edu.tr/): Affordable Programming Education with Easy to Find Materials and Mobile Phones
+- [Kart-ON](https://github.com/karton-project/): Affordable Programming Education with Easy to Find Materials and Mobile Phones
 - [Budgie](https://asabuncuoglu13.github.io/budgie-tangible-music-kit/): Music Programming for Students with Mixed Visual Abilities
 - [Marti](https://github.com/karton-project/marti): Data Driven Decision Making with Programming Cards
 
 ## 💻 Contributing to Projects
 
-If you are a student and want to contribute to an open-source project, you can choose to contribute one of the projects:
+If you are a student and want to contribute to an open-source project, you can choose to contribute to one of the projects:
 
 - Mobile app or deep learning model development updates for [Kart-ON](https://github.com/karton-project/karton-android)
 - Curricular material development for programming education
-- Improving the UX flow of [Marti](https://github.com/karton-project/marti) (Data Progr amming Platform)
+- Improving the UX flow of [Marti](https://github.com/karton-project/marti) (Data Programming Platform)
 - All improvements for the [Budgie](https://asabuncuoglu13.github.io/budgie-tangible-music-kit/) Music Programming (3D Print, Mobile App, Curricular Material)
-- All improvements for the Classroom Engagement Dataset (New dataset collection, feature engineering, model development)
-
-Please read [this guideline](https://docs.google.com/document/d/1R4oP2oar6LvCGRXPG68vCQ4Lly_OvpmnkXHX7NhWx5A/edit?usp=sharing) (also available in [Turkish](https://docs.google.com/document/d/1pnk9Z9ycTHIhiYjkwXoBJ2KKmIqjFAITS8nWfn8Ywwo/edit?usp=sharing)) if you would like to involve in my research projects.
