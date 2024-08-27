@@ -4,6 +4,13 @@ I’m currently working at the Alan Turing Institute in [Finance and Economics P
 
 📝 Visit my [Google Scholar page](https://scholar.google.com/citations?user=Ajpd3NwAAAAJ&hl=en) to see all my publications.
 
+## 🚀 Ongoing Projects
+
+*Funded by Innovate UK and Bill&Melinda Gates Foundation*
+
+- [Proactive Monitoring of AI Fairness](https://github.com/alan-turing-institute/fairness-monitoring/): The project aims to enable a proactive fairness review approach in the early stages of AI development. It provides developer-oriented methods and tools to self-assess and monitor fairness.
+- [Equitable AI Cookbook](https://asabuncuoglu13.github.io/equitable-ai-cookbook/): A series of essays and experiments to accelerate the equitable AI development.
+
 ## 🌱 Selected Previous PhD Projects
 
 The following projects are archived but I would like to hear from you if you would like to contribute.
